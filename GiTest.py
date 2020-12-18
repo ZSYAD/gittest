@@ -1,9 +1,9 @@
-print("C1")
+uprint("C1")
 
 print("C2")
 
 print("C3")
 
-print("dev")
-
 print("debug")
+
+print("dev3")
